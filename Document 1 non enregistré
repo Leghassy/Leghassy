@@ -1,0 +1,16 @@
+Comment installer dans Ubuntu 
+
+sudo apt-get Update
+
+ sudo apt-get install git
+
+ sudo git clone https://github.com/Rajkumrdusad/Tool-X.git
+
+ cd Tool-X
+
+ chmod +x install.aex
+
+ sudo sh install.aex OR ./install.aex 
+
+ sudo git clone https://github.com/aliali/tool-x.git
+
